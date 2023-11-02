@@ -41,13 +41,3 @@
 ![Static Badge](https://img.shields.io/badge/CODERHOUSE%20--path?style=for-the-badge&logologoColor=D1E505&labelColor=D1E505&color=black)
 ![Static Badge](https://img.shields.io/badge/HENRY%20--path?style=for-the-badge&logologoColor=FFFF00&labelColor=FFFF00&color=black)
 
-**### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mathias-videla-8852381b9/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mathiasvidela20@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.behance.net/mathiasvidela"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p>
-
------**
