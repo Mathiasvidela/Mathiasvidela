@@ -38,19 +38,10 @@
 ### 🖌️ &nbsp;Education
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![freecomp](https://shields.io/badges/CODERHOUSE-text-D1E505?style=&logo=)
+![Static Badge](https://img.shields.io/badge/CODERHOUSE%20--path?style=for-the-badge&logologoColor=D1E505&labelColor=D1E505&color=black)
+![Static Badge](https://img.shields.io/badge/HENRY%20--path?style=for-the-badge&logologoColor=FFFF00&labelColor=FFFF00&color=black)
 
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
+**### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mathias-videla-8852381b9/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -59,4 +50,4 @@
 <a href="https://www.behance.net/mathiasvidela"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
 
------
+-----**
