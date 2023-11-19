@@ -39,5 +39,5 @@
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CODERHOUSE%20--path?style=for-the-badge&logologoColor=D1E505&labelColor=D1E505&color=D1E505)
-![Static Badge](https://img.shields.io/badge/HENRY%20--path?style=for-the-badge&logologoColor=FFFF00&labelColor=FFFF00&color=FFFF00)
+
 
