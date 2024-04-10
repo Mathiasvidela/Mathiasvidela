@@ -11,9 +11,6 @@
 ✉️ &nbsp;You can email me at mathiasvidela20@gmail.com I will try to reply as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1IIw3JpxyZjSjkkpK1ayrIcmz9AgUnyDY/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-<!--<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>--->
-<img alt="Night Coding" src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" align="right" width="300px"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
