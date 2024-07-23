@@ -4,7 +4,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Mathias Videla -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;Hello from Argentina! 🇦🇷 I'm a 24 year old. I love to merge creativity and technology to achieve amazing results.\
+💡 &nbsp;Hello from Argentina! 🇦🇷 I'm a 25 year old. I love to merge creativity and technology to achieve amazing results.\
 🎓 &nbsp;I am currently studying Front-end developer.\
 🌱 &nbsp;I am currently honing my development as a web developer.\
 ✍️ &nbsp;In my free time, I dabble in Graphic Design for brands 🎨 play video games 🕹️ and learn about cryptocurrencies and blockchain 📊\
