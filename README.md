@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/V6jg8PB3/bannergit.jpg" alt="banner mathias" width="100%">
+<img src="https://postimg.cc/5jCZvbTV" alt="banner mathias" width="100%">
 <h2>Hey there! 👋🏼 I'm Mathias Videla</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Mathias Videla -->
