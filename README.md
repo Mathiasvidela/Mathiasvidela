@@ -7,7 +7,6 @@
 💡 &nbsp;Hello from Argentina! 🇦🇷 I'm a 25 year old. I love to merge creativity and technology to achieve amazing results.\
 🎓 &nbsp;I am currently studying Front-end developer.\
 🌱 &nbsp;I am currently honing my development as a web developer.\
-✍️ &nbsp;In my free time, I dabble in Graphic Design for brands 🎨 play video games 🕹️ and learn about cryptocurrencies and blockchain 📊\
 ✉️ &nbsp;You can email me at mathiasvidela20@gmail.com I will try to reply as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1rV9iA2u27BTJbrrV7yejbjQxMvvytm_4/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
