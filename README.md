@@ -3,11 +3,13 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Mathias Videla -->
 
-### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;Hello from Argentina! 🇦🇷 I'm a 26 year old. I love to merge creativity and technology to achieve amazing results.\
-🎓 &nbsp;I am currently studying Software Developer.\
-✉️ &nbsp;You can email me at mathiasvidela20@gmail.com I will try to reply as soon as I can.\
-<!--📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1rV9iA2u27BTJbrrV7yejbjQxMvvytm_4/view?usp=sharing) for more details about me. I'm open to feedback and suggestions! -->
+### 👨🏻‍💻 About Me
+Hi! I'm Mathias from Argentina 🇦🇷
+I'm a software development student focused on back-end with Java & Spring Boot.
+
+I started my career in graphic design, which gave me a strong visual mindset and helps me bridge design and development.
+
+I also have experience with HTML, CSS, JavaScript and React, but I'm currently deepening my skills in Java, Spring Boot and SQL to build robust and efficient applications.
 
 ### 🛠 &nbsp;Tech Stack
 
