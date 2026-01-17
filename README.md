@@ -4,12 +4,24 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Mathias Videla -->
 
 ### 👨🏻‍💻 About Me
+¡Hola! Soy Mathias, de Argentina 🇦🇷
+Soy estudiante de desarrollo de software con un fuerte interés en el back-end y en la construcción de aplicaciones sólidas y escalables.
+
+Tengo experiencia trabajando con HTML, CSS, JavaScript y React, lo que me permite comprender también el lado visual de los proyectos. Actualmente estoy enfocado en profundizar mis conocimientos en Java, Spring Boot y SQL, además de buenas prácticas y arquitectura de software.
+
+Disfruto aprender constantemente, enfrentar nuevos desafíos y participar en proyectos que me permitan crecer como desarrollador.
+
+✉️ mathiasvidela20@gmail.com
+
+#### 🇬🇧
 Hi! I'm Mathias from Argentina 🇦🇷
-I'm a software development student focused on back-end with Java & Spring Boot.
+I'm a software development student with a strong interest in back-end and building solid, scalable applications.
 
-I started my career in graphic design, which gave me a strong visual mindset and helps me bridge design and development.
+I have experience working with HTML, CSS, JavaScript and React, which allows me to understand the visual side of projects as well. Right now, I'm focused on deepening my knowledge in Java, Spring Boot and SQL, along with software architecture and best coding practices.
 
-I also have experience with HTML, CSS, JavaScript and React, but I'm currently deepening my skills in Java, Spring Boot and SQL to build robust and efficient applications.
+I enjoy constant learning, taking on new challenges and contributing to projects that help me grow as a developer.
+
+✉️ mathiasvidela20@gmail.com
 
 ### 🛠 &nbsp;Tech Stack
 
