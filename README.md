@@ -5,34 +5,21 @@
 
 ### 👨🏻‍💻 About Me
 ¡Hola! Soy Mathias, de Argentina 🇦🇷
-Soy estudiante de desarrollo de software con un fuerte interés en el back-end y en la construcción de aplicaciones sólidas y escalables.
-
-Tengo experiencia trabajando con HTML, CSS, JavaScript y React, lo que me permite comprender también el lado visual de los proyectos. Actualmente estoy enfocado en profundizar mis conocimientos en Java, Spring Boot y SQL, además de buenas prácticas y arquitectura de software.
-
-Disfruto aprender constantemente, enfrentar nuevos desafíos y participar en proyectos que me permitan crecer como desarrollador.
-
-✉️ mathiasvidela20@gmail.com
-
-#### 🇬🇧
-Hi! I'm Mathias from Argentina 🇦🇷
-I'm a software development student with a strong interest in back-end and building solid, scalable applications.
-
-I have experience working with HTML, CSS, JavaScript and React, which allows me to understand the visual side of projects as well. Right now, I'm focused on deepening my knowledge in Java, Spring Boot and SQL, along with software architecture and best coding practices.
-
-I enjoy constant learning, taking on new challenges and contributing to projects that help me grow as a developer.
+Estudiante de desarrollo de software, enfocado en el aprendizaje de back-end con Java y Spring Boot. Interesado en la lógica del servidor y la integración con bases de datos.
 
 ✉️ mathiasvidela20@gmail.com
 
 ### 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+
 
 ### 📚 &nbsp;Frameworks, Platforms and Libraries
 ![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
