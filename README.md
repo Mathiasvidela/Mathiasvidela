@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/wMjhH2xR/Frame-18.jpg" alt="banner mathias" width="100%">
+![banner](https://github.com/user-attachments/assets/bcd64535-4bd9-4d4e-ba2a-afc9135f57c2)
 <h1> Hey there! 👋🏼 I'm Mathias Videla </h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Mathias Videla -->
