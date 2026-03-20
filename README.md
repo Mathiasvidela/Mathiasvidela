@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/bcd64535-4bd9-4d4e-ba2a-afc9135f57c2)
+![banner](https://github.com/user-attachments/assets/c49f6d62-6f86-4c63-9c64-b6a38291696f)
 <h1> Hey there! 👋🏼 I'm Mathias Videla </h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Mathias Videla -->
