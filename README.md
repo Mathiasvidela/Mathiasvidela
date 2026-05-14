@@ -1,4 +1,5 @@
-![banner](https://github.com/user-attachments/assets/c49f6d62-6f86-4c63-9c64-b6a38291696f)
+<img width="1280" height="533" alt="hero" src="https://github.com/user-attachments/assets/45207f62-acaa-4804-bdd9-a751abb6ec84" />
+
 <h1> Hey there! 👋🏼 I'm Mathias Videla </h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Mathias Videla -->
