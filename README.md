@@ -44,7 +44,7 @@ Developer mathias = Developer.builder()
     .build();
 ```
 
-<img src="./assets/neon-signal.svg" width="100%" alt="Animated terminal signal" />
+<img src="./assets/terminal-signal.svg" width="100%" alt="Animated white and green terminal signal" />
 
 ## `// TOOLCHAIN`
 
