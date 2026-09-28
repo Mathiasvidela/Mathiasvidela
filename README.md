@@ -84,18 +84,12 @@ Developer mathias = new Developer.Builder()
 ## `// LIVE TELEMETRY`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mathiasvidela&show_icons=true&hide_border=true&bg_color=090812&title_color=FF2BD6&text_color=EAE7FF&icon_color=00F6FF&ring_color=FFE600" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mathiasvidela&show_icons=true&hide_border=true&bg_color=ffffff&title_color=c218a4&text_color=191622&icon_color=008e96&ring_color=d6b900" alt="Mathias's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiasvidela&layout=compact&hide_border=true&bg_color=090812&title_color=FFE600&text_color=EAE7FF" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiasvidela&layout=compact&hide_border=true&bg_color=ffffff&title_color=b39b00&text_color=191622" alt="Most used languages" />
-  </picture>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mathiasvidela&theme=radical" alt="Mathias's GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mathiasvidela&theme=radical" alt="Repositories by language" />
 </div>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mathiasvidela&bg_color=090812&color=00F6FF&line=FF2BD6&point=FFE600&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" alt="Contribution activity graph" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathiasvidela&theme=radical" alt="GitHub profile activity details" />
 </div>
 
 ## `// OPEN CHANNEL`
