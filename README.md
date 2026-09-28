@@ -1,65 +1,117 @@
-<img width="1280" height="533" alt="hero" src="https://github.com/user-attachments/assets/45207f62-acaa-4804-bdd9-a751abb6ec84" />
+<!--
+  PROFILE README // TECHNO STREET ART EDITION
+  Palette: #FF2BD6 / #00F6FF / #FFE600 / #090812
+-->
 
-# Hey there! 👋 I'm Mathias Videla
+<div align="center">
+  <img src="./assets/watchdogs-banner.svg" width="100%" alt="Mathias Videla — Back-end Developer" />
+</div>
 
-I'm a software development student from Argentina 🇦🇷, focused on back-end development with Java and Spring Boot.
+<div align="center">
 
-I enjoy working on server-side logic, REST APIs, databases, and clean project structures. I'm currently improving my skills by building real projects and practicing with technologies such as Spring Boot, MySQL, Git, GitHub and deployment tools.
+[![Status](https://img.shields.io/badge/SYSTEM-ONLINE-51FF65?style=for-the-badge&labelColor=090812)](https://github.com/Mathiasvidela)
+[![Location](https://img.shields.io/badge/NODE-CÓRDOBA_·_ARG-00F6FF?style=for-the-badge&labelColor=090812)](https://www.google.com/maps/place/C%C3%B3rdoba,+Argentina)
+[![Focus](https://img.shields.io/badge/FOCUS-BACK--END-FF2BD6?style=for-the-badge&labelColor=090812)](#-tech-arsenal)
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2300&pause=700&color=00F6FF&center=true&vCenter=true&repeat=true&width=850&height=58&lines=%3E+Booting+Spring+Boot+systems...;%3E+Designing+clean+REST+APIs...;%3E+Turning+coffee+into+backend+code...;%3E+Always+learning.+Always+building._" alt="Animated developer messages" />
 
-## 👨‍💻 About Me
+</div>
 
-- 🎓 Software Development student
-- ☕ Focused on Java and Spring Boot
-- 🧠 Interested in back-end development, REST APIs and databases
-- 🛠️ Building projects to strengthen my portfolio
-- 🚀 Always learning and improving my code
+```text
+┌─[ mathias@dev-machine ]─[ ~/identity ]
+└──╼ $ whoami --verbose
 
----
+  NAME      Mathias Videla                 MODE      builder
+  ROLE      Software Development Student   SPECIALTY Java / Spring Boot
+  BASE      Córdoba, Argentina              STATUS    learning in public
+  MISSION   Build useful, clean and scalable software.
+```
 
-## 🛠️ Tech Stack
+## `// ACCESS GRANTED: ABOUT_ME`
 
-### Languages & Core Technologies
+I’m a software development student from Argentina building my path into **back-end engineering**. I like the invisible machinery behind a product: the APIs, data models, business rules and clean architectures that make everything click.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+Right now I’m sharpening my Java + Spring Boot skills through real projects—breaking things, tracing the signal and shipping a cleaner version.
 
-### Back-end
+```java
+Developer mathias = new Developer.Builder()
+    .focus("Back-end development")
+    .core("Java", "Spring Boot", "REST APIs")
+    .database("MySQL")
+    .mindset("Learn → Build → Refactor → Repeat")
+    .build();
+```
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="./assets/neon-signal.svg" width="100%" alt="Animated neon signal" />
 
-### Front-end & Tools
+## `// TECH ARSENAL`
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
 
----
+### `CORE_PROTOCOLS`
 
-## 🚀 Currently Learning
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css&theme=dark" alt="Java, Spring, MySQL, JavaScript, HTML and CSS" />
 
-I'm currently focused on creating projects that help me practice real back-end development concepts, such as:
+### `FIELD_TOOLS`
 
-- CRUD operations
-- Layered architecture
-- REST API design
-- Database integration
-- Spring Data JPA
-- Authentication and user management
-- Clean and maintainable code
+<img src="https://skillicons.dev/icons?i=git,github,postman,vite,tailwind,react&theme=dark" alt="Git, GitHub, Postman, Vite, Tailwind and React" />
 
----
+</div>
 
-## 📫 Contact
+## `// CURRENT MISSIONS`
 
-- Email: mathiasvidela20@gmail.com
-- Portfolio: [mathiasvidela.dev](https://www.mathiasvidela.dev)
+```diff
++ Build REST APIs with clear contracts
++ Apply layered architecture and separation of concerns
++ Connect persistent data with Spring Data JPA + MySQL
++ Practice authentication and user management
++ Turn portfolio projects into production-ready software
+! Keep the code readable, testable and maintainable
+```
+
+<details>
+<summary><b>▸ OPEN DEV LOG / what I’m exploring</b></summary>
+<br />
+
+- API design, validation and meaningful error handling
+- Database modeling and persistence strategies
+- Authentication, authorization and application security
+- Deployment workflows and reliable developer tooling
+- Front-end fundamentals to understand the whole product surface
+
+</details>
+
+## `// LIVE TELEMETRY`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mathiasvidela&show_icons=true&hide_border=true&bg_color=090812&title_color=FF2BD6&text_color=EAE7FF&icon_color=00F6FF&ring_color=FFE600" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mathiasvidela&show_icons=true&hide_border=true&bg_color=ffffff&title_color=c218a4&text_color=191622&icon_color=008e96&ring_color=d6b900" alt="Mathias's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiasvidela&layout=compact&hide_border=true&bg_color=090812&title_color=FFE600&text_color=EAE7FF" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiasvidela&layout=compact&hide_border=true&bg_color=ffffff&title_color=b39b00&text_color=191622" alt="Most used languages" />
+  </picture>
+</div>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mathiasvidela&bg_color=090812&color=00F6FF&line=FF2BD6&point=FFE600&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" alt="Contribution activity graph" />
+</div>
+
+## `// OPEN CHANNEL`
+
+<div align="center">
+
+**Got an idea, an opportunity or a weird bug worth chasing? Let’s connect.**
+
+[![Portfolio](https://img.shields.io/badge/ENTER_PORTFOLIO-mathiasvidela.dev-FFE600?style=for-the-badge&labelColor=090812&logo=googlechrome&logoColor=FFE600)](https://www.mathiasvidela.dev)
+[![Email](https://img.shields.io/badge/SEND_SIGNAL-EMAIL-FF2BD6?style=for-the-badge&labelColor=090812&logo=gmail&logoColor=FF2BD6)](mailto:mathiasvidela20@gmail.com)
+[![GitHub](https://img.shields.io/badge/FOLLOW_THE_CODE-GITHUB-00F6FF?style=for-the-badge&labelColor=090812&logo=github&logoColor=00F6FF)](https://github.com/Mathiasvidela)
+
+```text
+TRANSMISSION COMPLETE // SEE YOU IN THE NEXT COMMIT_
+```
+
+<sub>Designed with caffeine, curiosity and controlled chaos.</sub>
+
+</div>
