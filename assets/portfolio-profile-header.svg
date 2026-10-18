@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" role="img" aria-labelledby="title desc">
+<title id="title">Mathias Videla — Backend Developer</title><desc id="desc">Cabecera negra y azul eléctrico. Java, Spring Boot y APIs REST. Córdoba, Argentina.</desc>
+<rect width="1200" height="490" fill="#09090b"/>
+<g fill="none" stroke="#133df6" stroke-opacity=".22"><path d="M32 100H1168M32 432H1168M32 32V458M1168 32V458M810 100V432"/><circle cx="993" cy="263" r="124"/><circle cx="993" cy="263" r="98"/><path d="M859 263H1127M993 129V397"/></g>
+<g stroke="#133df6"><path d="M22 100H42M32 90V110M1158 432H1178M1168 422V442"/></g>
+<text x="64" y="69" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="900" fill="#fafafa">MV<tspan fill="#133df6">.</tspan></text>
+<text x="1136" y="64" text-anchor="end" font-family="monospace" font-size="13" letter-spacing="2" fill="#a1a1aa">CÓRDOBA, ARGENTINA</text>
+<text x="63" y="157" font-family="Georgia,serif" font-style="italic" font-size="30" fill="#fafafa">Hola, soy Mathias.</text>
+<g fill="#133df6" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="88" letter-spacing="-5"><text x="58" y="253">BACKEND</text><text x="58" y="341">DEVELOPER</text></g>
+<circle cx="68" cy="391" r="4" fill="#133df6"/><text x="84" y="396" font-family="monospace" font-size="15" letter-spacing="2" fill="#d4d4d8">JAVA · SPRING BOOT · REST APIs</text>
+<g fill="none" stroke="#133df6" stroke-width="12" stroke-linecap="square" stroke-linejoin="miter"><path d="M957 225L922 263L957 301M1029 225L1064 263L1029 301M1006 215L980 311"/></g>
+<text x="64" y="465" font-family="monospace" font-size="12" letter-spacing="2" fill="#a1a1aa">APRENDER. CONSTRUIR. REFACTORIZAR.</text><text x="1136" y="465" text-anchor="end" font-family="monospace" font-size="12" letter-spacing="2" fill="#a1a1aa">MATHIAS VIDELA / GITHUB</text>
+</svg>
