@@ -1,49 +1,43 @@
-<!-- Custom kinetic SVG. Palette from the portfolio: #09090b / #133df6 / #fafafa. -->
-
 <a href="https://mathiasvideladev.vercel.app/">
-  <img src="./assets/portfolio-profile-header.svg?v=2" width="100%" alt="Mathias Videla — Backend Developer. Tecla de código flotante, órbitas y flujo animado de API a datos. Java, Spring Boot y MySQL." />
+  <img src="./assets/portfolio-profile-header.svg?v=3" width="100%" alt="Mathias Videla — tecla de código flotante y órbitas animadas en azul eléctrico" />
 </a>
 
 <p align="center">
-  <a href="https://mathiasvideladev.vercel.app/"><b>ENTRAR AL PORTFOLIO ↗</b></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mathias-videla/">LinkedIn</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="mailto:mathiasvidela20@gmail.com">Hablemos</a>
+  <a href="https://mathiasvideladev.vercel.app/"><b>Portfolio ↗</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mathias-videla/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:mathiasvidela20@gmail.com">Email</a>
 </p>
 
 <br />
 
-<table>
-<tr>
-<td width="55%" valign="top">
-<sub>LA PERSONA DETRÁS DEL COMMIT</sub>
-<h3>Curiosidad → código.</h3>
-<p>Soy <b>Mathias</b>, estudiante de Desarrollo de Software en Argentina. Me interesa entender qué pasa detrás de cada pantalla: las reglas, los datos y las decisiones que sostienen un producto.</p>
-<p>Mi foco está en <b>Java y Spring Boot</b>. Aprendo construyendo, probando y volviendo sobre lo que todavía puede mejorar.</p>
-</td>
-<td width="45%" valign="top">
-<sub>EN MI MESA DE TRABAJO</sub>
-<h3>Construir. Entender. Afinar.</h3>
-<p><code>01</code> APIs con contratos claros.<br /><br />
-<code>02</code> Datos bien modelados.<br /><br />
-<code>03</code> Arquitectura en capas.<br /><br />
-<code>04</code> Código fácil de mantener.</p>
-</td>
-</tr>
-</table>
-
-<br />
-
-<p align="center"><sub>MI CAJA DE HERRAMIENTAS / BACKEND FIRST</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-133DF6?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-133DF6?style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-133DF6?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/SPRING_BOOT-133DF6?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MYSQL-133DF6?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JPA-133DF6?style=for-the-badge" alt="JPA" />
 </p>
-<p align="center"><code>JPA</code> · <code>Git</code> · <code>GitHub</code> · <code>Postman</code><br />
-<sub>TAMBIÉN DEL OTRO LADO DE LA API</sub><br />
-<code>JavaScript</code> · <code>React Native</code> · <code>Tailwind CSS</code></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-133DF6?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/MYSQL-133DF6?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MONGODB-133DF6?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-133DF6?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-133DF6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-133DF6?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/REACT-133DF6?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/REACT_NATIVE-133DF6?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-133DF6?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-133DF6?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-133DF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/POSTMAN-133DF6?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
 <br />
 
@@ -68,23 +62,11 @@ Developer mathias = Developer.builder()
 
 </details>
 
-<details>
-<summary><b>↳ Ver las huellas del código</b> <sub> / actividad en GitHub</sub></summary>
-
 <br />
+
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mathiasvidela&theme=github_dark" alt="Estadísticas de GitHub de Mathias" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mathiasvidela&theme=github_dark" alt="Repositorios por lenguaje" />
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathiasvidela&theme=github_dark" alt="Actividad del perfil de GitHub" />
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mathiasvidela&theme=github_dark" alt="Estadísticas de GitHub de Mathias" />
 </p>
-
-</details>
-
-<br />
-
----
-
-<p align="center"><sub>EL PRÓXIMO COMMIT PUEDE EMPEZAR CON UNA CONVERSACIÓN.</sub></p>
-<h3 align="center"><a href="mailto:mathiasvidela20@gmail.com">¿Construimos algo? ↗</a></h3>
-<p align="center"><a href="https://mathiasvideladev.vercel.app/">Mis proyectos viven acá</a> · <a href="https://www.linkedin.com/in/mathias-videla/">Conectemos en LinkedIn</a></p>
-<p align="center"><sub>MV. / CÓRDOBA, ARGENTINA / SIEMPRE EN PROCESO</sub></p>
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathiasvidela&theme=github_dark" alt="Actividad y contribuciones de Mathias en GitHub" />
+</p>
