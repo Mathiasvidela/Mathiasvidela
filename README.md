@@ -1,65 +1,77 @@
-<!-- Visual identity inspired by mathiasvideladev.vercel.app: #09090b / #133df6 / #fafafa. -->
+<!-- Custom kinetic SVG. Palette from the portfolio: #09090b / #133df6 / #fafafa. -->
 
 <a href="https://mathiasvideladev.vercel.app/">
-  <img src="./assets/portfolio-profile-header.svg" width="100%" alt="Mathias Videla — Backend Developer · Java · Spring Boot · REST APIs" />
+  <img src="./assets/portfolio-profile-header.svg?v=2" width="100%" alt="Mathias Videla — Backend Developer. Tecla de código flotante, órbitas y flujo animado de API a datos. Java, Spring Boot y MySQL." />
 </a>
 
 <p align="center">
-  <a href="https://mathiasvideladev.vercel.app/"><img src="https://img.shields.io/badge/EXPLORAR_PORTFOLIO-133DF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explorar portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mathias-videla/"><img src="https://img.shields.io/badge/LINKEDIN-09090B?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:mathiasvidela20@gmail.com"><img src="https://img.shields.io/badge/EMAIL-09090B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mathiasvideladev.vercel.app/"><b>ENTRAR AL PORTFOLIO ↗</b></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mathias-videla/">LinkedIn</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:mathiasvidela20@gmail.com">Hablemos</a>
 </p>
 
 <br />
 
-### 01 / DETRÁS DEL CÓDIGO
-
-Soy **Mathias Videla**, estudiante de Desarrollo de Software en Argentina, enfocado en **backend con Java y Spring Boot**. Me interesan las APIs, los modelos de datos y las arquitecturas que hacen que un producto funcione bien por dentro.
-
-Aprendo construyendo proyectos reales: entender el problema, escribir una solución clara y mejorarla con cada iteración.
-
-> **Aprender → Construir → Refactorizar → Repetir.**
-
-<br />
-
-### 02 / HERRAMIENTAS
-
-![Java](https://img.shields.io/badge/JAVA-133DF6?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-133DF6?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-133DF6?style=for-the-badge&logo=mysql&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-09090B?style=flat-square&logo=javascript&logoColor=white)
-![React Native](https://img.shields.io/badge/REACT_NATIVE-09090B?style=flat-square&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TAILWIND-09090B?style=flat-square&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-09090B?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-09090B?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/POSTMAN-09090B?style=flat-square&logo=postman&logoColor=white)
+<table>
+<tr>
+<td width="55%" valign="top">
+<sub>LA PERSONA DETRÁS DEL COMMIT</sub>
+<h3>Curiosidad → código.</h3>
+<p>Soy <b>Mathias</b>, estudiante de Desarrollo de Software en Argentina. Me interesa entender qué pasa detrás de cada pantalla: las reglas, los datos y las decisiones que sostienen un producto.</p>
+<p>Mi foco está en <b>Java y Spring Boot</b>. Aprendo construyendo, probando y volviendo sobre lo que todavía puede mejorar.</p>
+</td>
+<td width="45%" valign="top">
+<sub>EN MI MESA DE TRABAJO</sub>
+<h3>Construir. Entender. Afinar.</h3>
+<p><code>01</code> APIs con contratos claros.<br /><br />
+<code>02</code> Datos bien modelados.<br /><br />
+<code>03</code> Arquitectura en capas.<br /><br />
+<code>04</code> Código fácil de mantener.</p>
+</td>
+</tr>
+</table>
 
 <br />
 
-### 03 / EN CONSTRUCCIÓN
+<p align="center"><sub>MI CAJA DE HERRAMIENTAS / BACKEND FIRST</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-133DF6?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SPRING_BOOT-133DF6?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MYSQL-133DF6?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+<p align="center"><code>JPA</code> · <code>Git</code> · <code>GitHub</code> · <code>Postman</code><br />
+<sub>TAMBIÉN DEL OTRO LADO DE LA API</sub><br />
+<code>JavaScript</code> · <code>React Native</code> · <code>Tailwind CSS</code></p>
 
-- APIs REST con contratos claros y arquitectura en capas.
-- Persistencia de datos con **Spring Data JPA + MySQL**.
-- Autenticación, gestión de usuarios y código mantenible.
+<br />
 
 <details>
-<summary><b>Notas de aprendizaje ↗</b></summary>
+<summary><b>↳ Abrir el cuaderno de desarrollo</b> <sub> / lo que estoy profundizando</sub></summary>
 
-- Validaciones y manejo de errores útiles.
-- Modelado de bases de datos y estrategias de persistencia.
-- Autenticación, autorización y seguridad de aplicaciones.
-- Flujos de despliegue y herramientas de desarrollo.
-- Fundamentos de frontend para comprender el producto completo.
+<br />
+
+~~~java
+// Una forma de resumir mi proceso, no una librería real.
+Developer mathias = Developer.builder()
+    .focus("Backend")
+    .stack("Java", "Spring Boot", "MySQL")
+    .mindset("Entender antes de abstraer")
+    .loop("Construir → Probar → Refactorizar")
+    .build();
+~~~
+
+**En práctica:** validaciones, manejo de errores, persistencia con JPA, autenticación y autorización.
+
+**En exploración:** flujos de despliegue y fundamentos de frontend para entender el producto completo.
 
 </details>
 
-<br />
-
 <details>
-<summary><b>04 / ACTIVIDAD EN GITHUB</b></summary>
-<br />
+<summary><b>↳ Ver las huellas del código</b> <sub> / actividad en GitHub</sub></summary>
 
+<br />
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mathiasvidela&theme=github_dark" alt="Estadísticas de GitHub de Mathias" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mathiasvidela&theme=github_dark" alt="Repositorios por lenguaje" />
@@ -72,8 +84,7 @@ Aprendo construyendo proyectos reales: entender el problema, escribir una soluci
 
 ---
 
-<p align="center">
-  <sub>MATHIAS VIDELA · CÓRDOBA, ARGENTINA</sub><br /><br />
-  <b>¿Una idea, una oportunidad o un proyecto para construir?</b><br />
-  <a href="mailto:mathiasvidela20@gmail.com">Conversemos ↗</a> &nbsp;·&nbsp; <a href="https://mathiasvideladev.vercel.app/">Conocé mi trabajo ↗</a>
-</p>
+<p align="center"><sub>EL PRÓXIMO COMMIT PUEDE EMPEZAR CON UNA CONVERSACIÓN.</sub></p>
+<h3 align="center"><a href="mailto:mathiasvidela20@gmail.com">¿Construimos algo? ↗</a></h3>
+<p align="center"><a href="https://mathiasvideladev.vercel.app/">Mis proyectos viven acá</a> · <a href="https://www.linkedin.com/in/mathias-videla/">Conectemos en LinkedIn</a></p>
+<p align="center"><sub>MV. / CÓRDOBA, ARGENTINA / SIEMPRE EN PROCESO</sub></p>
